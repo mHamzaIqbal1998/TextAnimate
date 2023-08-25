@@ -15,20 +15,19 @@ Create an impressive hero section with an infinite animated text scroll inspired
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/infinite-animated-text-scroll.git
-
+   git clone https://github.com/mHamzaIqbal1998/TextAnimate.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd infinite-animated-text-scroll
+   cd TextAnimate
 
    ```
 
 3. Install the dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 
 ## Usage
@@ -38,9 +37,9 @@ Create an impressive hero section with an infinite animated text scroll inspired
 2.Run the development server:
 
 ```bash
-   npm run dev
+   npx vite dev
 
-3.Open your browser and navigate to http://localhost:3000.
+3.Open your browser and navigate to http://127.0.0.1:5173
 
 Dependencies 📦
 Vite: Build tool for fast and optimized development.
